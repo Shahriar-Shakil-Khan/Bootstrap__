@@ -5,3 +5,31 @@
 .height250{
     height: 250px;
 }
+
+.body_color{
+   background-color: #230a58;
+}
+
+.nav_img{
+   width:150px;
+}
+
+.nav_text{
+    color: aliceblue;
+    font-size: 1.2rem;
+}
+.nav_margin{
+    margin-left: 200px!;
+}
+
+.section_space{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.section2_space{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
